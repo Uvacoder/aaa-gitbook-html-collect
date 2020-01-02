@@ -3,4 +3,5 @@
 * [Pages](README.md)
 * [Quotes](quotes.md)
 * [DOM](dom.md)
+* [Education](education.md)
 
