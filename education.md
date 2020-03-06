@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [HTML: the inaccessible parts](https://gomakethings.com/html-the-inaccessible-parts/?mc_cid=9fdbc39446&mc_eid=[UNIQID]) | 3/6 |
 | [4 Templating Systems to Write Quicker, Cleaner HTML](https://medium.com/@bretcameron/so-you-think-you-know-html-7813c03f8ff6) | 2/5 |
 | [Understanding the Tags in HTML Boilerplate](https://medium.com/better-programming/understanding-the-tags-in-html-boilerplate-38d1ae2805f7) | 2/5 |
 | [The Anatomy of HTML Links](https://medium.com/better-programming/a-primer-on-html-links-af632c4857e0) | 2/2/2020 |
