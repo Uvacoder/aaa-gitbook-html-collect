@@ -67,6 +67,8 @@
 
 |  |  |
 | :--- | :--- |
+| [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form) |  |
+| [https://www.w3schools.com/html/html\_forms.asp](https://www.w3schools.com/html/html_forms.asp) |  |
 | &lt;label&gt; |  |
 | &lt;fieldset&gt; |  |
 | &lt;legend&gt; |  |
