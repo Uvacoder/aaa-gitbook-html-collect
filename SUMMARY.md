@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Pages](README.md)
+* [Anchor link](anchor-link.md)
 * [DOM](dom.md)
 * [Education](education.md)
 * [Forms](forms.md)
