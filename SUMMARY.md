@@ -8,6 +8,6 @@
 * [Images](images.md)
 * [Quotes](quotes.md)
 * [SVG](svg.md)
-* [Video](video.md)
 * [Tabs](tabs.md)
+* [Video](video.md)
 
