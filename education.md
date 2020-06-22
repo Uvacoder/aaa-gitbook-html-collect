@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Always bet on HTML](https://gomakethings.com/always-bet-on-html/?mc_cid=ac13b13393&mc_eid=[UNIQID]) | 6/22 |
 | [HTML: Underrated tags](https://itnext.io/html-underrated-tags-119ef3e45b94) | 5/8 |
 | [Security and performance issues with target="\_blank" on links](https://gomakethings.com/security-and-performance-issues-with-target_blank-on-links/?mc_cid=6325cab52b&mc_eid=[UNIQID]) | 3/13 |
 | [HTML: the inaccessible parts](https://gomakethings.com/html-the-inaccessible-parts/?mc_cid=9fdbc39446&mc_eid=[UNIQID]) | 3/6 |
