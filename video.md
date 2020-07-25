@@ -14,5 +14,5 @@ The **HTML Video element** \(**`<video>`**\) embeds a media player which support
 
 |  |  |
 | :--- | :--- |
-|  |  |
+| [How to create accessible subtitles](https://gomakethings.com/how-to-create-accessible-subtitles/?mc_cid=be9f5f752a&mc_eid=[UNIQID]) | 7/25 |
 
