@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [10 HTML Elements You Didn’t Know You Needed](https://medium.com/@emmabostian/10-html-tags-you-didnt-know-you-needed-2f9d288707ec) | 8/7 |
 | [Always bet on HTML](https://gomakethings.com/always-bet-on-html/?mc_cid=ac13b13393&mc_eid=[UNIQID]) | 6/22 |
 | [HTML: Underrated tags](https://itnext.io/html-underrated-tags-119ef3e45b94) | 5/8 |
 | [Security and performance issues with target="\_blank" on links](https://gomakethings.com/security-and-performance-issues-with-target_blank-on-links/?mc_cid=6325cab52b&mc_eid=[UNIQID]) | 3/13 |
