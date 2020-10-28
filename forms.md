@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to autocomplete two-factor authentication codes with a single HTML attribute](https://gomakethings.com/how-to-autocomplete-two-factor-authentication-codes-with-a-single-html-attribute/) | 10/28 |
 | [How to create an autocomplete input with only HTML](https://gomakethings.com/how-to-create-an-autocomplete-input-with-only-html/?mc_cid=c61de3cb62&mc_eid=[UNIQID]) | 3/5 |
 
 {% code title="Form" %}
