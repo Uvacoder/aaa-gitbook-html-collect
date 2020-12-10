@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [The difference between alt and figcaption, and when to use which one](https://gomakethings.com/the-difference-between-alt-and-figcaption-and-when-to-use-which-one/) | 12/10 |
 | [AVIF for Next-Generation Image Coding](https://netflixtechblog.com/avif-for-next-generation-image-coding-b1d75675fe4) | 8/28 |
 | [Benefits of SVG](https://dev.to/alexi_be3/benefits-of-svg-10mn?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 7/28 |
 | [Is WebP really better than JPEG?](https://siipo.la/blog/is-webp-really-better-than-jpeg?utm_source=Responsive+Design+Weekly&utm_campaign=e37e47b37a-RWD_Newsletter_417&utm_medium=email&utm_term=0_df65b6d7c8-e37e47b37a-59185629) | 7/3 |
