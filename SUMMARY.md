@@ -10,5 +10,6 @@
 * [Quotes](quotes.md)
 * [SVG](svg.md)
 * [Tabs](tabs.md)
+* [Tags](tags.md)
 * [Video](video.md)
 
