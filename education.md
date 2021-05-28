@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [HTML and CSS techniques to reduce your JavaScript](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/) | 5/28 |
 | [The importance of HTML](https://jerryjones.dev/2020/04/20/the-importance-of-html/) | 12/11 |
 | [Rarely used but Handy HTML tags](https://medium.com/swlh/rarely-used-but-handy-html-tags-d000cd3050b3) | 9/12 |
 | [10 HTML Elements You Didn’t Know You Needed](https://medium.com/@emmabostian/10-html-tags-you-didnt-know-you-needed-2f9d288707ec) | 8/7 |
