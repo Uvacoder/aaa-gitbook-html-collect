@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [My Favorite HTML Features That Nobody is Talking About](https://radiant-brushlands-42789.herokuapp.com/blog.devgenius.io/my-favorite-html-features-that-nobody-is-talking-about-88dc28c9e92b) | 8/16 |
 | [HTML and CSS techniques to reduce your JavaScript](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/) | 5/28 |
 | [The importance of HTML](https://jerryjones.dev/2020/04/20/the-importance-of-html/) | 12/11 |
 | [Rarely used but Handy HTML tags](https://medium.com/swlh/rarely-used-but-handy-html-tags-d000cd3050b3) | 9/12 |
