@@ -6,6 +6,7 @@
 * [DOM](dom.md)
 * [Education](education.md)
 * [Forms](forms.md)
+* [Lists](lists.md)
 * [Images](images.md)
 * [Quotes](quotes.md)
 * [SVG](svg.md)
